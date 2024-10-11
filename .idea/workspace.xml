@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ebc2211d-2202-4ac3-9f39-a29cf7f0a896" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/module_2_hard.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module_3_1.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -37,9 +37,11 @@
   "keyToString": {
     "Python.1.executor": "Run",
     "Python.2.executor": "Run",
+    "Python.OrgStrings.executor": "Run",
     "Python.cycle.executor": "Run",
     "Python.dicts.executor": "Run",
     "Python.function.executor": "Run",
+    "Python.gtg.executor": "Run",
     "Python.lists.executor": "Run",
     "Python.module_1_6.executor": "Run",
     "Python.module_1_test.executor": "Run",
@@ -49,7 +51,12 @@
     "Python.module_2_4.executor": "Run",
     "Python.module_2_5.executor": "Run",
     "Python.module_2_hard.executor": "Run",
+    "Python.module_3_1.executor": "Run",
+    "Python.nextspace.executor": "Run",
     "Python.pep.executor": "Run",
+    "Python.strings.executor": "Run",
+    "Python.test.executor": "Run",
+    "Python.test1.executor": "Run",
     "Python.tic-tac.executor": "Run",
     "Python.tic-tac1.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
