@@ -5,8 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ebc2211d-2202-4ac3-9f39-a29cf7f0a896" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/module_3_1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -33,36 +31,36 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.1.executor": "Run",
-    "Python.2.executor": "Run",
-    "Python.OrgStrings.executor": "Run",
-    "Python.cycle.executor": "Run",
-    "Python.dicts.executor": "Run",
-    "Python.function.executor": "Run",
-    "Python.gtg.executor": "Run",
-    "Python.lists.executor": "Run",
-    "Python.module_1_6.executor": "Run",
-    "Python.module_1_test.executor": "Run",
-    "Python.module_2_1.executor": "Run",
-    "Python.module_2_2.executor": "Run",
-    "Python.module_2_3.executor": "Run",
-    "Python.module_2_4.executor": "Run",
-    "Python.module_2_5.executor": "Run",
-    "Python.module_2_hard.executor": "Run",
-    "Python.module_3_1.executor": "Run",
-    "Python.nextspace.executor": "Run",
-    "Python.pep.executor": "Run",
-    "Python.strings.executor": "Run",
-    "Python.test.executor": "Run",
-    "Python.test1.executor": "Run",
-    "Python.tic-tac.executor": "Run",
-    "Python.tic-tac1.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.OrgStrings.executor&quot;: &quot;Run&quot;,
+    &quot;Python.cycle.executor&quot;: &quot;Run&quot;,
+    &quot;Python.dicts.executor&quot;: &quot;Run&quot;,
+    &quot;Python.function.executor&quot;: &quot;Run&quot;,
+    &quot;Python.gtg.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lists.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_1_6.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_1_test.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_2_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_2_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_2_3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_2_4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_2_5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_2_hard.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_3_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.nextspace.executor&quot;: &quot;Run&quot;,
+    &quot;Python.pep.executor&quot;: &quot;Run&quot;,
+    &quot;Python.strings.executor&quot;: &quot;Run&quot;,
+    &quot;Python.test.executor&quot;: &quot;Run&quot;,
+    &quot;Python.test1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.tic-tac.executor&quot;: &quot;Run&quot;,
+    &quot;Python.tic-tac1.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="cycle" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="UU" />

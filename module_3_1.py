@@ -13,12 +13,12 @@ def count_calls():
     return calls
 
 
-def is_contains(name, listik):
+def is_contains(name, list):
     result=0
     count_calls()
 
-    for i in range(len(listik)):
-        if listik[i].lower() == name.lower():
+    for i in range(len(list)):
+        if list[i].lower() == name.lower():
             result = True
             break
         else:
