@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ebc2211d-2202-4ac3-9f39-a29cf7f0a896" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/funcWithDifferentParams.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module_3_4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module_3_5.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -57,8 +56,10 @@
     "Python.module_3_2.executor": "Run",
     "Python.module_3_3.executor": "Run",
     "Python.module_3_4.executor": "Run",
+    "Python.module_3_5.executor": "Run",
     "Python.nextspace.executor": "Run",
     "Python.pep.executor": "Run",
+    "Python.recursion.executor": "Run",
     "Python.strings.executor": "Run",
     "Python.test.executor": "Run",
     "Python.test1.executor": "Run",
