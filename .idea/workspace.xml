@@ -61,6 +61,7 @@
     "Python.module_3_4.executor": "Run",
     "Python.module_3_5.executor": "Run",
     "Python.nextspace.executor": "Run",
+    "Python.palWithSlice.executor": "Run",
     "Python.pep.executor": "Run",
     "Python.recursion.executor": "Run",
     "Python.strings.executor": "Run",
@@ -68,6 +69,7 @@
     "Python.test1.executor": "Run",
     "Python.tic-tac.executor": "Run",
     "Python.tic-tac1.executor": "Run",
+    "Python.uniq.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master"
   }
