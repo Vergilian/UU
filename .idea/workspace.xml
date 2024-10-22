@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ebc2211d-2202-4ac3-9f39-a29cf7f0a896" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -34,6 +33,13 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.01_triangle.executor": "Run",
+    "Python.02_calls_and_defaults.executor": "Run",
+    "Python.02_fractal.executor": "Run",
+    "Python.02_snowflake.executor": "Run",
+    "Python.03_arbitrary_params.executor": "Run",
+    "Python.04_recursion.executor": "Run",
+    "Python.05_builtin.executor": "Run",
     "Python.1.executor": "Run",
     "Python.2.executor": "Run",
     "Python.OrgStrings.executor": "Run",
@@ -71,7 +77,8 @@
     "Python.tic-tac1.executor": "Run",
     "Python.uniq.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+    "git-widget-placeholder": "master",
+    "settings.editor.selected.configurable": "preferences.pathVariables"
   }
 }]]></component>
   <component name="SharedIndexes">
