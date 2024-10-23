@@ -5,11 +5,26 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ebc2211d-2202-4ac3-9f39-a29cf7f0a896" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/fake_math.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module_4_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/true_math.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_1_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/HomeWork/module_1_3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_1_4.py" beforeDir="false" afterPath="$PROJECT_DIR$/HomeWork/module_1_4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_1_5.py" beforeDir="false" afterPath="$PROJECT_DIR$/HomeWork/module_1_5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_1_6.py" beforeDir="false" afterPath="$PROJECT_DIR$/HomeWork/module_1_6.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_1_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/HomeWork/module_1_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_2_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/HomeWork/module_2_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_2_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/HomeWork/module_2_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_2_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/HomeWork/module_2_3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_2_4.py" beforeDir="false" afterPath="$PROJECT_DIR$/HomeWork/module_2_4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_2_5.py" beforeDir="false" afterPath="$PROJECT_DIR$/HomeWork/module_2_5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_2_hard.py" beforeDir="false" afterPath="$PROJECT_DIR$/HomeWork/module_2_hard.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_3_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/HomeWork/module_3_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_3_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/HomeWork/module_3_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_3_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/HomeWork/module_3_3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_3_4.py" beforeDir="false" afterPath="$PROJECT_DIR$/HomeWork/module_3_4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_3_5.py" beforeDir="false" afterPath="$PROJECT_DIR$/HomeWork/module_3_5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_3_hard.py" beforeDir="false" afterPath="$PROJECT_DIR$/HomeWork/module_3_hard.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_4_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_4_1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,6 +74,7 @@
     "Python.function.executor": "Run",
     "Python.gtg.executor": "Run",
     "Python.lists.executor": "Run",
+    "Python.module.executor": "Run",
     "Python.module_1_6.executor": "Run",
     "Python.module_1_test.executor": "Run",
     "Python.module_2_1.executor": "Run",
@@ -73,6 +89,7 @@
     "Python.module_3_4.executor": "Run",
     "Python.module_3_5.executor": "Run",
     "Python.module_3_hard.executor": "Run",
+    "Python.module_4_1.executor": "Run",
     "Python.nextspace.executor": "Run",
     "Python.palWithSlice.executor": "Run",
     "Python.pep.executor": "Run",
@@ -90,6 +107,13 @@
     "settings.editor.selected.configurable": "preferences.pathVariables"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Vergilian\PythonProject\UU\OtherFile" />
+      <recent name="C:\Users\Vergilian\PythonProject\UU" />
+      <recent name="C:\Users\Vergilian\PythonProject\UU\HomeWork" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -112,7 +136,7 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/module_2_1.py</url>
+          <url>file://$PROJECT_DIR$/HomeWork/module_2_1.py</url>
           <option name="timeStamp" value="6" />
         </line-breakpoint>
       </breakpoints>
