@@ -5,10 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ebc2211d-2202-4ac3-9f39-a29cf7f0a896" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/HomeWork/module_4_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork/module_5_1.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork/module_4_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/HomeWork/module_4_1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,16 +41,20 @@
     "Python.02_fractal.executor": "Run",
     "Python.02_snowflake.executor": "Run",
     "Python.03_arbitrary_params.executor": "Run",
+    "Python.04_practice.executor": "Run",
     "Python.04_recursion.executor": "Run",
     "Python.05_builtin.executor": "Run",
     "Python.1.executor": "Run",
     "Python.2.executor": "Run",
     "Python.OrgStrings.executor": "Run",
+    "Python.__init__.executor": "Run",
     "Python._triangle.executor": "Run",
     "Python.buildInFunction1.executor": "Run",
     "Python.buildInFunction2.executor": "Run",
     "Python.calc.executor": "Run",
+    "Python.class&object.executor": "Run",
     "Python.cycle.executor": "Run",
+    "Python.dicts&sets.executor": "Run",
     "Python.dicts.executor": "Run",
     "Python.fake_math.executor": "Run",
     "Python.funcPract1.executor": "Run",
@@ -58,9 +62,12 @@
     "Python.function.executor": "Run",
     "Python.gogoggo.executor": "Run",
     "Python.gtg.executor": "Run",
+    "Python.ins.executor": "Run",
     "Python.lists.executor": "Run",
+    "Python.lists2.executor": "Run",
     "Python.main.executor": "Run",
     "Python.module.executor": "Run",
+    "Python.module1.executor": "Run",
     "Python.module2.executor": "Run",
     "Python.module_1_6.executor": "Run",
     "Python.module_1_test.executor": "Run",
@@ -78,11 +85,13 @@
     "Python.module_3_hard.executor": "Run",
     "Python.module_4_1.executor": "Run",
     "Python.module_4_2.executor": "Run",
+    "Python.module_5_1.executor": "Run",
     "Python.namespaces.executor": "Run",
     "Python.nextspace.executor": "Run",
     "Python.palWithSlice.executor": "Run",
     "Python.pep.executor": "Run",
     "Python.recursion.executor": "Run",
+    "Python.sortFunc.executor": "Debug",
     "Python.strings.executor": "Run",
     "Python.test.executor": "Run",
     "Python.test1.executor": "Run",
@@ -98,11 +107,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Vergilian\PythonProject\UU\OtherFile" />
-      <recent name="C:\Users\Vergilian\PythonProject\UU" />
-      <recent name="C:\Users\Vergilian\PythonProject\UU\package1\package2" />
-      <recent name="C:\Users\Vergilian\PythonProject\UU\package1\package2\package3" />
+      <recent name="C:\Users\Vergilian\PythonProject\UU\OtherFile\Module_5" />
+      <recent name="C:\Users\Vergilian\PythonProject\UU\test" />
       <recent name="C:\Users\Vergilian\PythonProject\UU\HomeWork" />
+      <recent name="C:\Users\Vergilian\PythonProject\UU\module_4" />
+      <recent name="C:\Users\Vergilian\PythonProject\UU\OtherFile" />
     </key>
   </component>
   <component name="SharedIndexes">
@@ -129,6 +138,51 @@
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/HomeWork/module_2_1.py</url>
           <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/module_4/sortFunc.py</url>
+          <line>33</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/module_4/sortFunc.py</url>
+          <line>34</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/module_4/sortFunc.py</url>
+          <line>35</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/module_4/sortFunc.py</url>
+          <line>37</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/module_4/sortFunc.py</url>
+          <line>36</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/module_4/sortFunc.py</url>
+          <line>39</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/module_4/sortFunc.py</url>
+          <line>40</line>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/module_4/sortFunc.py</url>
+          <line>41</line>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/module_4/sortFunc.py</url>
+          <line>43</line>
+          <option name="timeStamp" value="34" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
