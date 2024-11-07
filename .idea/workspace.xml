@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ebc2211d-2202-4ac3-9f39-a29cf7f0a896" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/HomeWork/module_5_4.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,6 +53,7 @@
     "Python.class&object.executor": "Run",
     "Python.class&object2.executor": "Run",
     "Python.class&object3.executor": "Run",
+    "Python.class&object4.executor": "Run",
     "Python.cycle.executor": "Run",
     "Python.dicts&sets.executor": "Run",
     "Python.dicts.executor": "Run",
@@ -67,6 +69,7 @@
     "Python.lists.executor": "Run",
     "Python.lists2.executor": "Run",
     "Python.main.executor": "Run",
+    "Python.method_new.executor": "Run",
     "Python.module.executor": "Run",
     "Python.module1.executor": "Run",
     "Python.module2.executor": "Run",
@@ -89,6 +92,7 @@
     "Python.module_5_1.executor": "Run",
     "Python.module_5_2.executor": "Run",
     "Python.module_5_3.executor": "Debug",
+    "Python.module_5_4.executor": "Run",
     "Python.namespaces.executor": "Run",
     "Python.nextspace.executor": "Run",
     "Python.palWithSlice.executor": "Run",
@@ -117,6 +121,32 @@
       <recent name="C:\Users\Vergilian\PythonProject\UU\module_4" />
       <recent name="C:\Users\Vergilian\PythonProject\UU\OtherFile" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="class&amp;object4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="UU" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OtherFile/Module_5" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OtherFile/Module_5/class&amp;object4.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.class&amp;object4" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
