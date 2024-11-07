@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ebc2211d-2202-4ac3-9f39-a29cf7f0a896" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/HomeWork/module_5_3.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -63,6 +62,8 @@
     "Python.gogoggo.executor": "Run",
     "Python.gtg.executor": "Run",
     "Python.ins.executor": "Run",
+    "Python.list test.executor": "Run",
+    "Python.list_zip.executor": "Run",
     "Python.lists.executor": "Run",
     "Python.lists2.executor": "Run",
     "Python.main.executor": "Run",
@@ -87,7 +88,7 @@
     "Python.module_4_2.executor": "Run",
     "Python.module_5_1.executor": "Run",
     "Python.module_5_2.executor": "Run",
-    "Python.module_5_3.executor": "Run",
+    "Python.module_5_3.executor": "Debug",
     "Python.namespaces.executor": "Run",
     "Python.nextspace.executor": "Run",
     "Python.palWithSlice.executor": "Run",
@@ -98,6 +99,7 @@
     "Python.test.executor": "Run",
     "Python.test1.executor": "Run",
     "Python.test2.executor": "Run",
+    "Python.testtest.executor": "Run",
     "Python.tic-tac.executor": "Run",
     "Python.tic-tac1.executor": "Run",
     "Python.true_math.executor": "Run",
