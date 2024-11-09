@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ebc2211d-2202-4ac3-9f39-a29cf7f0a896" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/HomeWork/module_5_4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork/module_5_hard.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -34,15 +34,23 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.01_objects_and_classes.executor": "Run",
     "Python.01_triangle.executor": "Run",
+    "Python.02_attrs_and_methods.executor": "Run",
     "Python.02_calls_and_defaults.executor": "Run",
     "Python.02_fractal.executor": "Run",
     "Python.02_snowflake.executor": "Run",
     "Python.03_arbitrary_params.executor": "Run",
+    "Python.03_self_param.executor": "Run",
     "Python.04_practice.executor": "Run",
     "Python.04_recursion.executor": "Run",
     "Python.05_builtin.executor": "Run",
+    "Python.05_operator_overloading.executor": "Run",
+    "Python.06_class_attrs.executor": "Run",
+    "Python.07_class_namespace.executor": "Run",
+    "Python.08_practice.executor": "Run",
     "Python.1.executor": "Run",
+    "Python.11.executor": "Run",
     "Python.2.executor": "Run",
     "Python.OrgStrings.executor": "Run",
     "Python.__init__.executor": "Run",
@@ -54,6 +62,7 @@
     "Python.class&object2.executor": "Run",
     "Python.class&object3.executor": "Run",
     "Python.class&object4.executor": "Run",
+    "Python.classpract1.executor": "Run",
     "Python.cycle.executor": "Run",
     "Python.dicts&sets.executor": "Run",
     "Python.dicts.executor": "Run",
@@ -93,6 +102,7 @@
     "Python.module_5_2.executor": "Run",
     "Python.module_5_3.executor": "Debug",
     "Python.module_5_4.executor": "Run",
+    "Python.module_5_hard.executor": "Run",
     "Python.namespaces.executor": "Run",
     "Python.nextspace.executor": "Run",
     "Python.palWithSlice.executor": "Run",
@@ -108,6 +118,7 @@
     "Python.tic-tac1.executor": "Run",
     "Python.true_math.executor": "Run",
     "Python.uniq.executor": "Run",
+    "Python.vebinar 08.11.2024.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "settings.editor.selected.configurable": "preferences.pathVariables"
@@ -115,19 +126,44 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Vergilian\PythonProject\UU\OtherFile\Vebinars" />
       <recent name="C:\Users\Vergilian\PythonProject\UU\OtherFile\Module_5" />
       <recent name="C:\Users\Vergilian\PythonProject\UU\test" />
       <recent name="C:\Users\Vergilian\PythonProject\UU\HomeWork" />
       <recent name="C:\Users\Vergilian\PythonProject\UU\module_4" />
-      <recent name="C:\Users\Vergilian\PythonProject\UU\OtherFile" />
     </key>
   </component>
   <component name="RunManager">
+    <configuration name="11" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="UU" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OtherFile/Module_5" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OtherFile/Module_5/11.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="class&amp;object4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="UU" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OtherFile/Module_5" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -142,8 +178,32 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="classpract1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="UU" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OtherFile/Module_5" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OtherFile/Module_5/classpract1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.classpract1" />
+        <item itemvalue="Python.11" />
         <item itemvalue="Python.class&amp;object4" />
       </list>
     </recent_temporary>
@@ -217,6 +277,51 @@
           <url>file://$PROJECT_DIR$/module_4/sortFunc.py</url>
           <line>43</line>
           <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$USER_HOME$/Desktop/+5МодульТильда 7/05_operator_overloading.py</url>
+          <line>107</line>
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$USER_HOME$/Desktop/+5МодульТильда 7/05_operator_overloading.py</url>
+          <line>131</line>
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$USER_HOME$/Desktop/+5МодульТильда 7/05_operator_overloading.py</url>
+          <line>140</line>
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$USER_HOME$/Desktop/+5МодульТильда 7/05_operator_overloading.py</url>
+          <line>142</line>
+          <option name="timeStamp" value="43" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$USER_HOME$/Desktop/+5МодульТильда 7/05_operator_overloading.py</url>
+          <line>146</line>
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$USER_HOME$/Desktop/+5МодульТильда 7/05_operator_overloading.py</url>
+          <line>99</line>
+          <option name="timeStamp" value="45" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$USER_HOME$/Desktop/+5МодульТильда 7/05_operator_overloading.py</url>
+          <line>153</line>
+          <option name="timeStamp" value="46" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$USER_HOME$/Desktop/+5МодульТильда 7/05_operator_overloading.py</url>
+          <line>152</line>
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$USER_HOME$/Desktop/+5МодульТильда 7/05_operator_overloading.py</url>
+          <line>151</line>
+          <option name="timeStamp" value="48" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
