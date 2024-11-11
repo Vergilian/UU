@@ -3,8 +3,8 @@ import random
 
 def get_random():
     numbers = [3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20]
-    any = random.choice(numbers)
-    return any
+    any_nubmer = random.choice(numbers)
+    return any_nubmer
 
 
 first_field = get_random()
