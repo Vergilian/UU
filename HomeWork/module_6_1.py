@@ -5,9 +5,6 @@ class Animal:
     def __init__(self, name):
         self.name = name
 
-    def __repr__(self):
-        return self.name
-
     def eat(self, food):
         if food.edible is False:
             print(f"{self.name} не стал есть {food.name}")
@@ -19,9 +16,6 @@ class Animal:
 
 class Plant:
     edible = False
-
-    def __repr__(self):
-        return self.name
 
     def __init__(self, name):
         self.name = name
