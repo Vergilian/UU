@@ -5,6 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ebc2211d-2202-4ac3-9f39-a29cf7f0a896" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/HomeWork/module_6_3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/HomeWork/module_6_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/HomeWork/module_6_2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -118,11 +120,15 @@
     "Python.module_5_hard.executor": "Run",
     "Python.module_6_1.executor": "Run",
     "Python.module_6_2.executor": "Run",
+    "Python.module_6_3.executor": "Run",
     "Python.namespaces.executor": "Run",
     "Python.nassled.executor": "Run",
     "Python.nassled_2.executor": "Run",
+    "Python.nassled_3.executor": "Run",
     "Python.neme_space.executor": "Run",
+    "Python.new_ghtgjtg.executor": "Run",
     "Python.nextspace.executor": "Run",
+    "Python.old.executor": "Run",
     "Python.palWithSlice.executor": "Run",
     "Python.pep.executor": "Run",
     "Python.practic.executor": "Run",
@@ -150,11 +156,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Vergilian\PythonProject\UU\Modules\Module_6" />
       <recent name="C:\Users\Vergilian\PythonProject\UU\Modules\Module_4,5" />
       <recent name="C:\Users\Vergilian\PythonProject\UU\Modules\Vebinars" />
       <recent name="C:\Users\Vergilian\PythonProject\UU\Modules\Module_4" />
       <recent name="C:\Users\Vergilian\PythonProject\UU\Modules\Module_4\package1\package2\package3" />
-      <recent name="C:\Users\Vergilian\PythonProject\UU\Modules\Module_4\package1\package2" />
     </key>
   </component>
   <component name="SharedIndexes">

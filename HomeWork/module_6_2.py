@@ -32,6 +32,8 @@ class Vehicle:
 class Sedan(Vehicle):
     __PASSENGERS_LIMIT = 5
 
+# Vehicle._Vehicle__COLOR_VARIANTS = ['black', 'red', 'green', 'yellow', 'white', 'purple']- можно использовать
+# для неявного определения списка цветов, а в класс передавать пустой список
 
 # Текущие цвета __COLOR_VARIANTS = ['black', 'red', 'green', 'yellow', 'white', 'purple']
 vehicle1 = Sedan('Fedos', 'Toyota Mark II', 'blue', 500)
