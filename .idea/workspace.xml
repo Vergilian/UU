@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ebc2211d-2202-4ac3-9f39-a29cf7f0a896" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/HomeWork/module_6_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PP_game/ball.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PP_game/bar.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HomeWork/module_6_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/HomeWork/module_6_2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,6 +61,7 @@
     "Python.2.executor": "Run",
     "Python.4545.executor": "Run",
     "Python.Import.executor": "Run",
+    "Python.Nassles_pract.executor": "Run",
     "Python.OrgStrings.executor": "Run",
     "Python.__init__.executor": "Run",
     "Python._triangle.executor": "Run",
@@ -92,6 +93,7 @@
     "Python.list_zip.executor": "Run",
     "Python.lists.executor": "Run",
     "Python.lists2.executor": "Run",
+    "Python.logger_veb.executor": "Run",
     "Python.main.executor": "Run",
     "Python.method_new.executor": "Run",
     "Python.module.executor": "Run",
@@ -131,8 +133,10 @@
     "Python.old.executor": "Run",
     "Python.palWithSlice.executor": "Run",
     "Python.pep.executor": "Run",
+    "Python.pract.executor": "Run",
     "Python.practic.executor": "Run",
     "Python.recursion.executor": "Run",
+    "Python.rergerh.executor": "Run",
     "Python.sortFunc.executor": "Debug",
     "Python.strings.executor": "Run",
     "Python.test.executor": "Run",
@@ -151,16 +155,17 @@
     "Python.while_how.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
-    "settings.editor.selected.configurable": "preferences.pathVariables"
+    "last_opened_file_path": "C:/Users/Vergilian/PythonProject/UU",
+    "settings.editor.selected.configurable": "preferences.fileTypes"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Vergilian\PythonProject\UU\Modules" />
+      <recent name="C:\Users\Vergilian\PythonProject\UU" />
       <recent name="C:\Users\Vergilian\PythonProject\UU\Modules\Module_6" />
       <recent name="C:\Users\Vergilian\PythonProject\UU\Modules\Module_4,5" />
       <recent name="C:\Users\Vergilian\PythonProject\UU\Modules\Vebinars" />
-      <recent name="C:\Users\Vergilian\PythonProject\UU\Modules\Module_4" />
-      <recent name="C:\Users\Vergilian\PythonProject\UU\Modules\Module_4\package1\package2\package3" />
     </key>
   </component>
   <component name="SharedIndexes">
