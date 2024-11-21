@@ -20,5 +20,5 @@ class WordsFinder:
 
 
 w = WordsFinder('file1.txt', 'file2.txt', 'file3.txt')
-# pprint(w.get_all_words(), compact=True)
-print(w.find('TEXT'))
+pprint(w.get_all_words(), compact=True)
+# print(w.find('TEXT'))
