@@ -5,10 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ebc2211d-2202-4ac3-9f39-a29cf7f0a896" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/HomeWork/file1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HomeWork/file2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HomeWork/file3.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork/file1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/HomeWork/file1.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork/file2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/HomeWork/file2.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork/file3.txt" beforeDir="false" afterPath="$PROJECT_DIR$/HomeWork/file3.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork/module_7_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/HomeWork/module_7_2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/HomeWork/module_7_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/HomeWork/module_7_3.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -126,6 +127,7 @@
     &quot;Python.module_6_2.executor&quot;: &quot;Run&quot;,
     &quot;Python.module_6_3.executor&quot;: &quot;Run&quot;,
     &quot;Python.module_7_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_7_2.executor&quot;: &quot;Run&quot;,
     &quot;Python.module_7_3.executor&quot;: &quot;Run&quot;,
     &quot;Python.namespaces.executor&quot;: &quot;Run&quot;,
     &quot;Python.nassled.executor&quot;: &quot;Run&quot;,
