@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ebc2211d-2202-4ac3-9f39-a29cf7f0a896" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/HomeWork/module_7_4.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -77,7 +76,9 @@
     "Python.cycle.executor": "Run",
     "Python.dicts&sets.executor": "Run",
     "Python.dicts.executor": "Run",
+    "Python.ert.executor": "Run",
     "Python.fake_math.executor": "Run",
+    "Python.files_in_os.executor": "Run",
     "Python.for_how.executor": "Run",
     "Python.funcPract1.executor": "Run",
     "Python.funcWithDifferentParams.executor": "Run",
@@ -167,11 +168,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Vergilian\PythonProject\UU\Modules\test_0" />
+      <recent name="C:\Users\Vergilian\PythonProject\UU\Modules" />
       <recent name="C:\Users\Vergilian\PythonProject\UU\HomeWork" />
       <recent name="C:\Users\Vergilian\PythonProject\UU\Modules\Module_7" />
       <recent name="C:\Users\Vergilian\PythonProject\UU\434" />
-      <recent name="C:\Users\Vergilian\PythonProject\UU\Modules" />
-      <recent name="C:\Users\Vergilian\PythonProject\UU" />
     </key>
   </component>
   <component name="SharedIndexes">
