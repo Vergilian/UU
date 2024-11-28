@@ -127,6 +127,7 @@
     "Python.module_7_1.executor": "Run",
     "Python.module_7_2.executor": "Run",
     "Python.module_7_3.executor": "Run",
+    "Python.module_7_5.executor": "Run",
     "Python.namespaces.executor": "Run",
     "Python.nassled.executor": "Run",
     "Python.nassled_2.executor": "Run",
@@ -168,11 +169,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Vergilian\PythonProject\UU\Modules\test_0" />
-      <recent name="C:\Users\Vergilian\PythonProject\UU\Modules" />
-      <recent name="C:\Users\Vergilian\PythonProject\UU\HomeWork" />
       <recent name="C:\Users\Vergilian\PythonProject\UU\Modules\Module_7" />
-      <recent name="C:\Users\Vergilian\PythonProject\UU\434" />
+      <recent name="C:\Users\Vergilian\PythonProject\UU\Modules" />
+      <recent name="C:\Users\Vergilian\PythonProject\UU\HomeWork\module_7_5" />
+      <recent name="C:\Users\Vergilian\PythonProject\UU\Modules\test_0" />
+      <recent name="C:\Users\Vergilian\PythonProject\UU\HomeWork" />
     </key>
   </component>
   <component name="SharedIndexes">
