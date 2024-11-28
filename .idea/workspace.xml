@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ebc2211d-2202-4ac3-9f39-a29cf7f0a896" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/HomeWork/module_8_1.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -77,6 +78,8 @@
     "Python.dicts&sets.executor": "Run",
     "Python.dicts.executor": "Run",
     "Python.ert.executor": "Run",
+    "Python.ex.executor": "Run",
+    "Python.ex_0.executor": "Run",
     "Python.fake_math.executor": "Run",
     "Python.files_in_os.executor": "Run",
     "Python.for_how.executor": "Run",
@@ -128,6 +131,7 @@
     "Python.module_7_2.executor": "Run",
     "Python.module_7_3.executor": "Run",
     "Python.module_7_5.executor": "Run",
+    "Python.module_8_1.executor": "Run",
     "Python.namespaces.executor": "Run",
     "Python.nassled.executor": "Run",
     "Python.nassled_2.executor": "Run",
