@@ -15,11 +15,6 @@ def calculate_average(numbers):
         if not isinstance(numbers, (list, set, tuple, dict, str)):
             raise TypeError
 
-        if isinstance(numbers, str):
-            for char in numbers:
-                print(f'Некорректный тип данных для подсчёта суммы - {char}')
-            return 0
-
         result_collect, incorrect_data_collect = personal_sum(numbers)
         average_sum = result_collect / (len(numbers) - incorrect_data_collect)
         return average_sum
