@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ebc2211d-2202-4ac3-9f39-a29cf7f0a896" name="Changes" comment="" />
+    <list default="true" id="ebc2211d-2202-4ac3-9f39-a29cf7f0a896" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -81,6 +83,7 @@
     "Python.ex.executor": "Run",
     "Python.ex_0.executor": "Run",
     "Python.ex_1.executor": "Run",
+    "Python.ex_2.executor": "Run",
     "Python.fake_math.executor": "Run",
     "Python.files_in_os.executor": "Run",
     "Python.for_how.executor": "Run",
@@ -151,6 +154,7 @@
     "Python.practic.executor": "Run",
     "Python.recursion.executor": "Run",
     "Python.rergerh.executor": "Run",
+    "Python.rferf.executor": "Run",
     "Python.rg5g.executor": "Run",
     "Python.sortFunc.executor": "Debug",
     "Python.strings.executor": "Run",
