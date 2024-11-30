@@ -146,10 +146,12 @@
     "Python.openfile_3.executor": "Run",
     "Python.palWithSlice.executor": "Run",
     "Python.pep.executor": "Run",
+    "Python.pepre.executor": "Run",
     "Python.pract.executor": "Run",
-    "Python.practic.executor": "Debug",
+    "Python.practic.executor": "Run",
     "Python.recursion.executor": "Run",
     "Python.rergerh.executor": "Run",
+    "Python.rg5g.executor": "Run",
     "Python.sortFunc.executor": "Debug",
     "Python.strings.executor": "Run",
     "Python.strings_and_bytes.executor": "Run",
@@ -175,8 +177,8 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Vergilian\PythonProject\UU\Modules\Module_7" />
       <recent name="C:\Users\Vergilian\PythonProject\UU\Modules" />
+      <recent name="C:\Users\Vergilian\PythonProject\UU\Modules\Module_7" />
       <recent name="C:\Users\Vergilian\PythonProject\UU\HomeWork\module_7_5" />
       <recent name="C:\Users\Vergilian\PythonProject\UU\Modules\test_0" />
       <recent name="C:\Users\Vergilian\PythonProject\UU\HomeWork" />
@@ -264,9 +266,9 @@
           <option name="timeStamp" value="48" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Modules/practic.py</url>
-          <line>64</line>
-          <option name="timeStamp" value="66" />
+          <url>file://$PROJECT_DIR$/Modules/1.py</url>
+          <line>37</line>
+          <option name="timeStamp" value="54" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
