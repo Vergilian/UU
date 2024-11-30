@@ -12,9 +12,6 @@ def personal_sum(numbers):
 
 def calculate_average(numbers):
     try:
-        if not isinstance(numbers, (list, set, tuple, dict, str)):
-            raise TypeError
-
         result_collect, incorrect_data_collect = personal_sum(numbers)
         average_sum = result_collect / (len(numbers) - incorrect_data_collect)
         return average_sum
