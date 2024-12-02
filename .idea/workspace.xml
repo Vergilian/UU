@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ebc2211d-2202-4ac3-9f39-a29cf7f0a896" name="Changes" comment="" />
+    <list default="true" id="ebc2211d-2202-4ac3-9f39-a29cf7f0a896" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -43,6 +45,7 @@
     "Python.02_calls_and_defaults.executor": "Run",
     "Python.02_fractal.executor": "Run",
     "Python.02_snowflake.executor": "Run",
+    "Python.02_try_except.executor": "Run",
     "Python.03_arbitrary_params.executor": "Run",
     "Python.03_self_param.executor": "Run",
     "Python.04_practice.executor": "Run",
@@ -50,6 +53,7 @@
     "Python.05_builtin.executor": "Run",
     "Python.05_operator_overloading.executor": "Run",
     "Python.06_class_attrs.executor": "Run",
+    "Python.06_practice.executor": "Run",
     "Python.07_class_namespace.executor": "Run",
     "Python.08_practice.executor": "Run",
     "Python.1.executor": "Run",
