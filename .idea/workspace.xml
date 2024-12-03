@@ -86,6 +86,7 @@
     "Python.ex_0.executor": "Run",
     "Python.ex_1.executor": "Run",
     "Python.ex_2.executor": "Run",
+    "Python.ex_3_pract.executor": "Run",
     "Python.fake_math.executor": "Run",
     "Python.files_in_os.executor": "Run",
     "Python.for_how.executor": "Run",
@@ -183,11 +184,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Vergilian\PythonProject\UU\Modules\Module_8" />
       <recent name="C:\Users\Vergilian\PythonProject\UU\Modules" />
       <recent name="C:\Users\Vergilian\PythonProject\UU\Modules\Module_7" />
       <recent name="C:\Users\Vergilian\PythonProject\UU\HomeWork\module_7_5" />
       <recent name="C:\Users\Vergilian\PythonProject\UU\Modules\test_0" />
-      <recent name="C:\Users\Vergilian\PythonProject\UU\HomeWork" />
     </key>
   </component>
   <component name="SharedIndexes">
