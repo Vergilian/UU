@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ebc2211d-2202-4ac3-9f39-a29cf7f0a896" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/HomeWork/module_9_4.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HomeWork/module_9_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/HomeWork/module_9_3.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -156,7 +156,7 @@
     "Python.pep.executor": "Run",
     "Python.pepre.executor": "Run",
     "Python.pract.executor": "Run",
-    "Python.practic.executor": "Debug",
+    "Python.practic.executor": "Run",
     "Python.recursion.executor": "Run",
     "Python.rergerh.executor": "Run",
     "Python.rferf.executor": "Run",
