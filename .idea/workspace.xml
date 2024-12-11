@@ -63,6 +63,7 @@
     "Python.4234324.executor": "Run",
     "Python.4545.executor": "Run",
     "Python.54t45t45t.executor": "Run",
+    "Python.5п.executor": "Run",
     "Python.Formatirovanie.executor": "Run",
     "Python.Import.executor": "Run",
     "Python.Nassles_pract.executor": "Run",
@@ -90,6 +91,8 @@
     "Python.ex_4.executor": "Run",
     "Python.ex_5.executor": "Run",
     "Python.ex_6.executor": "Run",
+    "Python.ex_7.executor": "Run",
+    "Python.ex_8.executor": "Run",
     "Python.fake_math.executor": "Run",
     "Python.files_in_os.executor": "Run",
     "Python.for_how.executor": "Run",
@@ -146,7 +149,7 @@
     "Python.module_9_3.executor": "Run",
     "Python.module_9_4.executor": "Run",
     "Python.module_9_5.executor": "Run",
-    "Python.module_9_6.executor": "Debug",
+    "Python.module_9_6.executor": "Run",
     "Python.namespaces.executor": "Run",
     "Python.nassled.executor": "Run",
     "Python.nassled_2.executor": "Run",
@@ -191,11 +194,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Vergilian\PythonProject\UU\Modules\Module_9" />
       <recent name="C:\Users\Vergilian\PythonProject\UU\Modules\Module_8" />
       <recent name="C:\Users\Vergilian\PythonProject\UU\Modules" />
       <recent name="C:\Users\Vergilian\PythonProject\UU\Modules\Module_7" />
       <recent name="C:\Users\Vergilian\PythonProject\UU\HomeWork\module_7_5" />
-      <recent name="C:\Users\Vergilian\PythonProject\UU\Modules\test_0" />
     </key>
   </component>
   <component name="SharedIndexes">
