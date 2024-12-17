@@ -1,4 +1,4 @@
-import time
+from time import sleep
 from datetime import datetime
 import threading
 
@@ -6,10 +6,8 @@ import threading
 def write_words(word_count, file_name):
     with open(file_name, 'w', encoding='utf-8') as file:
         for i in range(word_count):
-            line = f"Какое-то слово № {i + 1} \n"
-            file.write(line)
-            time.sleep(0.1)
-
+            file.write(f"Какое-то слово № {i + 1}\n")
+            sleep(0.1)
         print(f"Завершилась запись в файл {file_name}")
 
 
@@ -40,4 +38,4 @@ thread4.join()
 
 ended_at = datetime.now()
 elapsed = (ended_at - started_at)
-print(f'Работа функций сработала за {elapsed} секунд(ы)')
+print(f'Работа потоков сработала за {elapsed} секунд(ы)')
