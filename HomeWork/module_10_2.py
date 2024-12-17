@@ -1,10 +1,10 @@
-import threading
-import time
+from threading import Thread
+from time import sleep
 
 
-class Knight(threading.Thread):
+class Knight(Thread):
     def __init__(self, name, power):
-        threading.Thread.__init__(self)
+        Thread.__init__(self)
         self.name = str(name)
         self.power = int(power)
 
@@ -13,7 +13,7 @@ class Knight(threading.Thread):
         days = 0
         enemys = 100
         while enemys > 0:
-            time.sleep(1)
+            sleep(1)
             days += 1
             enemys -= self.power
             print(f'{self.name} сражается {days} день(дня)..., осталось {enemys} воинов')
