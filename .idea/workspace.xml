@@ -123,6 +123,7 @@
     "Python.module.executor": "Run",
     "Python.module1.executor": "Run",
     "Python.module2.executor": "Run",
+    "Python.module_10_4.executor": "Run",
     "Python.module_1_6.executor": "Run",
     "Python.module_1_test.executor": "Run",
     "Python.module_2_1.executor": "Run",
