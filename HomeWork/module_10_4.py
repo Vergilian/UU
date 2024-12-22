@@ -29,8 +29,8 @@ class Cafe:
             for table in tables:
                 if table.guest is None:
                     table.guest = guest
-                    guest.start()
                     print(f"<{guest.name} сел(-а) за стол номер {table.number}")
+                    guest.start()
                     break
             else:
                 self.queue.put(guest)

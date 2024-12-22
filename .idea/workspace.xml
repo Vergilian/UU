@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="ebc2211d-2202-4ac3-9f39-a29cf7f0a896" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork/module_10_4.py" beforeDir="false" afterPath="$PROJECT_DIR$/HomeWork/module_10_4.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -205,11 +206,11 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Vergilian\PythonProject\UU\HomeWork" />
       <recent name="C:\Users\Vergilian\PythonProject\UU\Modules" />
       <recent name="C:\Users\Vergilian\PythonProject\UU\Modules\Module_10\m10_ex_3_ex" />
       <recent name="C:\Users\Vergilian\PythonProject\UU\Modules\Module_9" />
       <recent name="C:\Users\Vergilian\PythonProject\UU\Modules\Module_8" />
-      <recent name="C:\Users\Vergilian\PythonProject\UU\Modules\Module_7" />
     </key>
   </component>
   <component name="SharedIndexes">
@@ -296,6 +297,11 @@
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/Modules/Module_10/m10_ex_3_ex/ex_3.py</url>
           <option name="timeStamp" value="49" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Modules/practic.py</url>
+          <line>19</line>
+          <option name="timeStamp" value="52" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
