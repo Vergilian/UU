@@ -5,15 +5,10 @@ class House:
 
     def go_to(self, new_floor):
         if new_floor < 1 or new_floor > self.number_of_floor:
-            print(f"{new_floor} этаж - Такого этажа не существует, максимальный - {self.number_of_floor} этаж")
+            print("Такого этажа не существует")
         else:
-            count = 0
-            while new_floor!=count:
-                count += 1
-                print(count, "Этаж")
-                if new_floor == count:
-                    print('Мы приехали на выбранный Вами этаж \n' )
-
+            for i in range(1, new_floor + 1):
+                print(i)
 
 
 Urban = House('Урбан', 18)
