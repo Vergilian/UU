@@ -6,7 +6,9 @@
   <component name="ChangeListManager">
     <list default="true" id="ebc2211d-2202-4ac3-9f39-a29cf7f0a896" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HomeWork/module_5_hard.py" beforeDir="false" afterPath="$PROJECT_DIR$/HomeWork/module_5_hard.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PP_game/ball.png" beforeDir="false" afterPath="$PROJECT_DIR$/Games/PP_game/ball.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PP_game/bar.png" beforeDir="false" afterPath="$PROJECT_DIR$/Games/PP_game/bar.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PP_game/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Games/PP_game/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -210,11 +212,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Vergilian\PythonProject\UU\Games" />
+      <recent name="C:\Users\Vergilian\PythonProject\UU\NIM_game" />
       <recent name="C:\Users\Vergilian\PythonProject\UU\Modules\Module_5" />
       <recent name="C:\Users\Vergilian\PythonProject\UU\Modules\Module_4" />
       <recent name="C:\Users\Vergilian\PythonProject\UU\HomeWork" />
-      <recent name="C:\Users\Vergilian\PythonProject\UU\Modules" />
-      <recent name="C:\Users\Vergilian\PythonProject\UU\Modules\Module_10\m10_ex_3_ex" />
     </key>
   </component>
   <component name="SharedIndexes">
