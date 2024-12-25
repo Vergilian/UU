@@ -3,24 +3,22 @@ from time import sleep
 
 class User:
     def __init__(self, nickname, password, age):
-        self.nickname = nickname
-        self.password = hash(password)
-        self.age = age
+        self.nickname = str(nickname)
+        self.password = password
+        self.age = int(age)
 
     def __str__(self):
         return self.nickname
 
-    def __repr__(self):
-        return self.nickname
-
     def __eq__(self, other):
-        if isinstance(other,User):
-            return self.nickname == other.nickname and self.password == hash(other.password)
+        if isinstance(other, User):
+            return self.nickname == other.nickname and hash(self.password) == hash(other.password)
         return False
 
+
 class Video:
-    def __init__(self, title, duration, time_now=0, adult_mode=bool(False)):
-        self.title = title
+    def __init__(self, title, duration, time_now=0, adult_mode=False):
+        self.title = str(title)
         self.duration = duration
         self.time_now = time_now
         self.adult_mode = adult_mode
@@ -36,12 +34,15 @@ class UrTube:
         self.current_user = None
 
     def __contains__(self, item):
+        # Если item строка, проверяем наличие видео с таким названием
+        if isinstance(item, str):
+            for video in self.video:
+                if item == video.title:
+                    return True
+        if isinstance(item, Video):
+            return item in self.video
         if isinstance(item, User):
-            return any(user == item for user in self.users)
-        elif isinstance(item, Video):
-            return any(existing_video.title == item.title for existing_video in self.video)
-        elif isinstance(item, str):
-            return any(item.lower() in video.title.lower() for video in self.video)
+            return item in self.users
         return False
 
     def register(self, nickname, password, age):
@@ -50,58 +51,52 @@ class UrTube:
                 print(f"Пользователь {nickname} уже существует")
                 return
         new_user = User(nickname, password, age)
-        self.log_in(nickname, password)
         self.users.append(new_user)
-        self.current_user = new_user
+        self.log_in(nickname, password)
 
     def log_in(self, nickname, password):
+        temp_user = User(nickname, password, 0)
         for user in self.users:
-            self.current_user = user
-            # print(f"Добро пожаловать {nickname}")
-            return
+            if user == temp_user:
+                self.current_user = user
+                return
 
-
-
-    def log_out(self, nickname, password):
+    def log_out(self):
         print(f"{self.current_user} вышел из системы.")
         self.current_user = None
 
     def add(self, *videos):
         for video in videos:
-            if video in self:
-                print('Данное видео добавлено ранее')
-            else:
+            if video not in self.video:
                 self.video.append(video)
 
     def get_videos(self, search):
-        search = search.lower()
-        list_search = []
+        list_video = []
         for video in self.video:
-            if search in video.title.lower():
-                list_search.append(video)
-        return list_search
+            if search.lower() in video.title.lower():
+                list_video.append(video)
+        return list_video
 
-    def watch_video(self, title):
+    def watch_video(self, title_film):
         if self.current_user is None:
             print("Войдите в аккаунт, чтобы смотреть видео")
             return
 
         for video in self.video:
-            if video.title == title:
+            if title_film == video.title:
                 if video.adult_mode and self.current_user.age < 18:
                     print("Вам нет 18 лет, пожалуйста покиньте страницу")
                     return
 
-                for second in range(video.time_now, video.duration):
+                for sec in range(1, video.duration + 1):
                     sleep(1)
-                    print(f"{second + 1}", end=" ", flush=True)
-                    video.time_now = second + 1
+                    print(sec, end=' ')
                 print("Конец видео")
-                if video.time_now == video.duration:
-                    video.time_now = 0
+                video.time_now = 0
                 return
 
 
+# Код для проверки:
 ur = UrTube()
 v1 = Video('Лучший язык программирования 2024 года', 200)
 v2 = Video('Для чего девушкам парень программист?', 10, adult_mode=True)

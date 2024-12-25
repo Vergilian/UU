@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ebc2211d-2202-4ac3-9f39-a29cf7f0a896" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/HomeWork/module_5_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/HomeWork/module_5_3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork/module_5_hard.py" beforeDir="false" afterPath="$PROJECT_DIR$/HomeWork/module_5_hard.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,6 +87,7 @@
     "Python.dicts&sets.executor": "Run",
     "Python.dicts.executor": "Run",
     "Python.ed.executor": "Run",
+    "Python.erg.executor": "Run",
     "Python.ert.executor": "Run",
     "Python.ex.executor": "Run",
     "Python.ex_0.executor": "Run",
@@ -173,6 +175,7 @@
     "Python.pepre.executor": "Run",
     "Python.pract.executor": "Run",
     "Python.practic.executor": "Run",
+    "Python.random.executor": "Run",
     "Python.recursion.executor": "Run",
     "Python.rergerh.executor": "Run",
     "Python.rferf.executor": "Run",
@@ -207,11 +210,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Vergilian\PythonProject\UU\Modules\Module_5" />
       <recent name="C:\Users\Vergilian\PythonProject\UU\Modules\Module_4" />
       <recent name="C:\Users\Vergilian\PythonProject\UU\HomeWork" />
       <recent name="C:\Users\Vergilian\PythonProject\UU\Modules" />
       <recent name="C:\Users\Vergilian\PythonProject\UU\Modules\Module_10\m10_ex_3_ex" />
-      <recent name="C:\Users\Vergilian\PythonProject\UU\Modules\Module_9" />
     </key>
   </component>
   <component name="SharedIndexes">
@@ -303,6 +306,10 @@
           <url>file://$PROJECT_DIR$/Modules/practic.py</url>
           <line>19</line>
           <option name="timeStamp" value="52" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$USER_HOME$/Desktop/материалы по модулям/+5МодульТильда 7/07_class_namespace.py</url>
+          <option name="timeStamp" value="54" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
