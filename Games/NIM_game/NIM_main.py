@@ -48,7 +48,7 @@
 from termcolor import colored, cprint
 
 print(colored('Привет мир!', 'red', attrs=['underline']))
-print('Привет, я люблю тебя!')
+print('Привет, тестовый запуск программы!')
 cprint('Вывод с помощью cprint', 'green', 'on_blue')
 
 
