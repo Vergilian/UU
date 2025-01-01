@@ -18,8 +18,6 @@ class Figure:
     def set_color(self, r, g, b):
         if self.__is_valid_color(r, g, b):
             self.__color = [r, g, b]
-        # else:
-        #     print("Некорректные данные цветов")
 
     def __is_valid_sides(self, *sides):
         if len(sides) == self.sides_count:
@@ -36,8 +34,6 @@ class Figure:
     def set_sides(self, *new_sides):
         if len(new_sides) == self.sides_count:
             self.__sides = new_sides
-        # else:
-        #     print("Кол-во сторон не совпадает с текущим объектом")
 
 
 class Circle(Figure):
