@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="ebc2211d-2202-4ac3-9f39-a29cf7f0a896" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HomeWork/module_8_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/HomeWork/module_8_3.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,12 +53,14 @@
     "Python.03_redefinition.executor": "Run",
     "Python.03_self_param.executor": "Run",
     "Python.04_file_usage.executor": "Run",
+    "Python.04_libs_exceptions.executor": "Run",
     "Python.04_practice.executor": "Run",
     "Python.04_recursion.executor": "Run",
     "Python.04_super.executor": "Run",
     "Python.05_builtin.executor": "Run",
     "Python.05_multiple_inheritance.executor": "Run",
     "Python.05_operator_overloading.executor": "Run",
+    "Python.05_warnings.executor": "Run",
     "Python.06_class_attrs.executor": "Run",
     "Python.06_format.executor": "Run",
     "Python.06_practice.executor": "Run",
