@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ebc2211d-2202-4ac3-9f39-a29cf7f0a896" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HomeWork/module_7_4.py" beforeDir="false" afterPath="$PROJECT_DIR$/HomeWork/module_7_4.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,9 +41,11 @@
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;Python.01_objects_and_classes.executor&quot;: &quot;Run&quot;,
+    &quot;Python.01_strings_and_bytes.executor&quot;: &quot;Run&quot;,
     &quot;Python.01_triangle.executor&quot;: &quot;Run&quot;,
     &quot;Python.02_attrs_and_methods.executor&quot;: &quot;Run&quot;,
     &quot;Python.02_calls_and_defaults.executor&quot;: &quot;Run&quot;,
+    &quot;Python.02_files.executor&quot;: &quot;Run&quot;,
     &quot;Python.02_fractal.executor&quot;: &quot;Run&quot;,
     &quot;Python.02_parent_attrs.executor&quot;: &quot;Run&quot;,
     &quot;Python.02_snowflake.executor&quot;: &quot;Run&quot;,
@@ -51,6 +53,7 @@
     &quot;Python.03_arbitrary_params.executor&quot;: &quot;Run&quot;,
     &quot;Python.03_redefinition.executor&quot;: &quot;Run&quot;,
     &quot;Python.03_self_param.executor&quot;: &quot;Run&quot;,
+    &quot;Python.04_file_usage.executor&quot;: &quot;Run&quot;,
     &quot;Python.04_practice.executor&quot;: &quot;Run&quot;,
     &quot;Python.04_recursion.executor&quot;: &quot;Run&quot;,
     &quot;Python.04_super.executor&quot;: &quot;Run&quot;,
@@ -58,6 +61,7 @@
     &quot;Python.05_multiple_inheritance.executor&quot;: &quot;Run&quot;,
     &quot;Python.05_operator_overloading.executor&quot;: &quot;Run&quot;,
     &quot;Python.06_class_attrs.executor&quot;: &quot;Run&quot;,
+    &quot;Python.06_format.executor&quot;: &quot;Run&quot;,
     &quot;Python.06_practice.executor&quot;: &quot;Run&quot;,
     &quot;Python.06_theory.executor&quot;: &quot;Run&quot;,
     &quot;Python.07_class_namespace.executor&quot;: &quot;Run&quot;,
@@ -66,6 +70,7 @@
     &quot;Python.0_ex_strings_and_bytes.executor&quot;: &quot;Run&quot;,
     &quot;Python.1.executor&quot;: &quot;Run&quot;,
     &quot;Python.11.executor&quot;: &quot;Run&quot;,
+    &quot;Python.123123.executor&quot;: &quot;Run&quot;,
     &quot;Python.1_ex_openfile.executor&quot;: &quot;Run&quot;,
     &quot;Python.2.executor&quot;: &quot;Run&quot;,
     &quot;Python.234234234.executor&quot;: &quot;Run&quot;,
@@ -83,6 +88,7 @@
     &quot;Python.NIM_main.executor&quot;: &quot;Run&quot;,
     &quot;Python.Nassles_pract.executor&quot;: &quot;Run&quot;,
     &quot;Python.OrgStrings.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Practic_with_tk_provodnik.executor&quot;: &quot;Run&quot;,
     &quot;Python.__init__.executor&quot;: &quot;Run&quot;,
     &quot;Python._triangle.executor&quot;: &quot;Run&quot;,
     &quot;Python.biteCode_how.executor&quot;: &quot;Run&quot;,
@@ -188,6 +194,7 @@
     &quot;Python.pep.executor&quot;: &quot;Run&quot;,
     &quot;Python.pepre.executor&quot;: &quot;Run&quot;,
     &quot;Python.pract.executor&quot;: &quot;Run&quot;,
+    &quot;Python.pract_with_notes.executor&quot;: &quot;Run&quot;,
     &quot;Python.practic.executor&quot;: &quot;Run&quot;,
     &quot;Python.random.executor&quot;: &quot;Run&quot;,
     &quot;Python.recursion.executor&quot;: &quot;Run&quot;,
@@ -225,11 +232,11 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Vergilian\PythonProject\UU\Modules" />
       <recent name="C:\Users\Vergilian\PythonProject\UU\Games" />
       <recent name="C:\Users\Vergilian\PythonProject\UU\NIM_game" />
       <recent name="C:\Users\Vergilian\PythonProject\UU\Modules\Module_5" />
       <recent name="C:\Users\Vergilian\PythonProject\UU\Modules\Module_4" />
-      <recent name="C:\Users\Vergilian\PythonProject\UU\HomeWork" />
     </key>
   </component>
   <component name="SharedIndexes">
