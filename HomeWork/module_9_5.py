@@ -18,7 +18,7 @@ class Iterator:
         result = self.pointer
         self.pointer += self.step
         return result
-    
+
 
 class StepValueError(ValueError):
     pass
