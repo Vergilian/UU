@@ -26,7 +26,7 @@ class MysticBall:
     def __init__(self, *words):
         self.words = words
 
-    def __call__(self, *words):
+    def __call__(self):
         return choice(self.words)
 
 
