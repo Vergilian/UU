@@ -4,7 +4,6 @@ from time import sleep
 
 
 class Bank:
-
     def __init__(self):
         self.balance = int(0)
         self.lock = threading.Lock()
@@ -16,8 +15,7 @@ class Bank:
             print(f'Пополнение: {add}.Балланс: {self.balance}')
             if self.balance >= 500 and self.lock.locked():
                 self.lock.release()
-            else:
-                sleep(0.001)
+            sleep(0.001)
 
     def take(self):
         for i in range(100):
@@ -27,8 +25,8 @@ class Bank:
                 self.balance -= take
                 print(f'Снятие: {take}.Балланс: {self.balance}')
             else:
-                print("Запрос отклонён, недостаточно средств")
                 self.lock.acquire()
+                print("Запрос отклонён, недостаточно средств")
             sleep(0.001)
 
 
