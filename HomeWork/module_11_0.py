@@ -12,21 +12,21 @@ def read_info(name):
             all_data.append(line.strip())
 
 
-def linear(filenames):
+def linear(files):
     start_time = datetime.now()
-    for filename in filenames:
-        read_info(filename)
+    for file in files:
+        read_info(file)
     end_time = datetime.now()
-    elapsed = (end_time - start_time)
+    elapsed = end_time - start_time
     print(f'Время линейных выполнений: {elapsed}')
 
 
-def parallel(filenames):
+def parallel(files):
     start_time = datetime.now()
     with Pool() as pool:
-        pool.map(read_info, filenames)
+        pool.map(read_info, files)
     end_time = datetime.now()
-    elapsed = (end_time - start_time)
+    elapsed = end_time - start_time
     print(f'Время параллельных выполнений: {elapsed}')
 
 
