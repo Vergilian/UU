@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ebc2211d-2202-4ac3-9f39-a29cf7f0a896" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/HomeWork/module_11_1.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -245,7 +244,7 @@
     "Python.уауа.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/Vergilian/PythonProject/UU/HomeWork",
+    "last_opened_file_path": "C:/Users/Vergilian/PythonProject/UU",
     "run.code.analysis.last.selected.profile": "aDefault",
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
