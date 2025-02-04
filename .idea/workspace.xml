@@ -5,6 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ebc2211d-2202-4ac3-9f39-a29cf7f0a896" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/HomeWork/module_12_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HumanMoveTest" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -39,6 +43,8 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python tests.Python tests in module_12_1.py.executor": "Run",
+    "Python tests.Python tests in test_ex_1.py.executor": "Run",
     "Python.01_functional_style.executor": "Run",
     "Python.01_objects_and_classes.executor": "Run",
     "Python.01_strings_and_bytes.executor": "Run",
@@ -220,6 +226,7 @@
     "Python.rferf.executor": "Run",
     "Python.rfrf.executor": "Run",
     "Python.rg5g.executor": "Run",
+    "Python.runner.executor": "Run",
     "Python.sortFunc.executor": "Debug",
     "Python.strings.executor": "Run",
     "Python.strings_HW.executor": "Run",
@@ -227,6 +234,7 @@
     "Python.test.executor": "Run",
     "Python.test1.executor": "Run",
     "Python.test2.executor": "Run",
+    "Python.test_ex_0.executor": "Run",
     "Python.testtest.executor": "Run",
     "Python.tgtg.executor": "Run",
     "Python.threads_count.executor": "Run",
