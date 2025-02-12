@@ -2,12 +2,13 @@ from HumanMoveTest.runner import Runner
 
 import unittest
 
+
 class RunnerTest(unittest.TestCase):
     def test_walk(self):
         runner = Runner('Vasya')
         for _ in range(10):
             runner.walk()
-        self.assertEqual(runner.distance,50)
+        self.assertEqual(runner.distance, 50)
 
     def test_run(self):
         runner = Runner('Vasya')

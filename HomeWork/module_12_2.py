@@ -3,6 +3,7 @@ import unittest
 
 
 class TournamentTest(unittest.TestCase):
+    is_frozen = False
 
     @classmethod
     def setUpClass(cls):
@@ -21,12 +22,15 @@ class TournamentTest(unittest.TestCase):
         last_runner = result[max(result.keys())]
         self.assertTrue(last_runner == 'Ник', f"Ошибка: {last_runner} не последний")
 
+    @unittest.skipIf(is_frozen == False,'Тесты в этом кейсе заморожены')
     def test_race_usain_nick(self):
         self.run_race("Усэйн и Ник", self.runner1, self.runner3)
 
+    @unittest.skipIf(is_frozen == False,'Тесты в этом кейсе заморожены')
     def test_race_andrey_nick(self):
         self.run_race("Андрей и Ник", self.runner2, self.runner3)
 
+    @unittest.skipIf(is_frozen == False,'Тесты в этом кейсе заморожены')
     def test_race_usain_andrey_nick(self):
         self.run_race("Усэйн, Андрей и Ник", self.runner1, self.runner2, self.runner3)
 

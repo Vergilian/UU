@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ebc2211d-2202-4ac3-9f39-a29cf7f0a896" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/HomeWork/module_12_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork/module_12_3.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork/module_12_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/HomeWork/module_12_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork/module_12_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/HomeWork/module_12_2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,9 +44,12 @@
   "keyToString": {
     "Python tests.Python tests in 1213.py.executor": "Run",
     "Python tests.Python tests in module_12_1.py.executor": "Run",
+    "Python tests.Python tests in module_12_2.py.executor": "Run",
     "Python tests.Python tests in practic.py.executor": "Run",
     "Python tests.Python tests in test_ex_1.py.executor": "Run",
     "Python tests.Python tests in test_ex_2.py.executor": "Run",
+    "Python tests.Python tests in test_ex_4.py.executor": "Run",
+    "Python tests.Python tests in test_new_calc.py.executor": "Run",
     "Python.01_functional_style.executor": "Run",
     "Python.01_objects_and_classes.executor": "Run",
     "Python.01_strings_and_bytes.executor": "Run",
@@ -162,6 +167,7 @@
     "Python.module_10_4.executor": "Run",
     "Python.module_11_0.executor": "Run",
     "Python.module_11_1.executor": "Run",
+    "Python.module_12_3.executor": "Run",
     "Python.module_1_6.executor": "Run",
     "Python.module_1_test.executor": "Run",
     "Python.module_2_1.executor": "Run",
@@ -233,6 +239,7 @@
     "Python.strings_HW.executor": "Run",
     "Python.strings_and_bytes.executor": "Run",
     "Python.test.executor": "Run",
+    "Python.test.suite.executor": "Run",
     "Python.test1.executor": "Run",
     "Python.test2.executor": "Run",
     "Python.test_ex_0.executor": "Run",
