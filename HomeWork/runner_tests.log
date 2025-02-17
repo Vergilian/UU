@@ -1,0 +1,10 @@
+2025-02-17 23:18:58,541 | WARNING | Неверный тип данных для обьекта Runner
+Traceback (most recent call last):
+  File "C:\Users\Vergilian\PythonProject\UU\HomeWork\module_12_6.py", line 28, in test_run
+    raise TypeError(f"Имя не может быть только числом, передано {type(runner.name).__name__}")
+TypeError: Имя не может быть только числом, передано int
+2025-02-17 23:18:58,541 | WARNING | Неверная скорость для Runner
+Traceback (most recent call last):
+  File "C:\Users\Vergilian\PythonProject\UU\HomeWork\module_12_6.py", line 15, in test_walk
+    raise ValueError(f"Скорость не может быть отрицательной, сейчас {runner.speed}")
+ValueError: Скорость не может быть отрицательной, сейчас -5
