@@ -5,7 +5,7 @@
       <excludeFolder url="file://$MODULE_DIR$/Module_11_2/.venv" />
       <excludeFolder url="file://$MODULE_DIR$/Ping_pong/.venv" />
     </content>
-    <orderEntry type="jdk" jdkName="Python 3.12 (UU)" jdkType="Python SDK" />
+    <orderEntry type="jdk" jdkName="Python 3.9 (Bot_Project)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
 </module>

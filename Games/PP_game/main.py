@@ -1,8 +1,12 @@
 import arcade
+import os
+print("Путь к файлу ball.png:", os.path.abspath("ball.png"))
+print("Путь к файлу bar.png:", os.path.abspath("bar.png"))
 
 SCREEN_WIDTH = 800
 SCREEN_HEIGHT = 600
 SCREEN_TITLE = 'Pong Game'
+
 
 class Bal(arcade.Sprite):
     def __init__(self):
@@ -25,32 +29,34 @@ class Bal(arcade.Sprite):
 
 class Bar(arcade.Sprite):
     def __init__(self):
-        super().__init__('bar.png', 0.4)
+        super().__init__('bar.png')
+        self.scale = 0.4
 
     def update(self):
         self.center_x += self.change_x
-        if self.right >=SCREEN_WIDTH:
+        if self.right >= SCREEN_WIDTH:
             self.right = SCREEN_WIDTH
         if self.left <= 0:
             self.left = 0
 
 
-
-
 class Game(arcade.Window):
 
-    def __init__(self, width, heigth, title):
-        super().__init__(width, heigth, title)
+    def __init__(self, width, height, title):
+        super().__init__(width, height, title)
         self.bar = Bar()
         self.ball = Bal()
         self.setup()
 
+        print("Объект Bar является arcade.Sprite?", isinstance(self.bar, arcade.Sprite))
+        print("Методы объекта Bar:", dir(self.bar))
+
     def setup(self):
 
         self.bar.center_x = SCREEN_WIDTH / 2
-        self.bar.center_y = SCREEN_WIDTH / 8
+        self.bar.center_y = SCREEN_HEIGHT / 8
         self.ball.center_x = SCREEN_WIDTH / 2
-        self.ball.center_y = SCREEN_WIDTH / 4
+        self.ball.center_y = SCREEN_HEIGHT / 4
 
     def on_draw(self):
         self.clear((200, 200, 200))
@@ -58,7 +64,7 @@ class Game(arcade.Window):
         self.ball.draw()
 
     def update(self, delta):
-        if arcade.check_for_collision(self.bar,self.ball):
+        if arcade.check_for_collision(self.bar, self.ball):
             self.ball.change_y = -self.ball.change_y
         self.ball.update()
         self.bar.update()
@@ -70,10 +76,8 @@ class Game(arcade.Window):
             self.bar.change_x = -7
 
     def on_key_release(self, key, modifiers):
-        if key == arcade.key.RIGHT or  key == arcade.key.LEFT:
+        if key == arcade.key.RIGHT or key == arcade.key.LEFT:
             self.bar.change_x = 0
-
-
 
 
 if __name__ == '__main__':
